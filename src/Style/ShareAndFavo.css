@@ -1,0 +1,20 @@
+.shareAndFavo {
+  margin: 2vh 3vw 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 100px;
+  justify-content: flex-end;
+  color: #4d9079ec;
+}
+
+.shareAndFavo button {
+  background-color: transparent;
+  border: none;
+  width: 40px;
+  height: 40px;
+  outline-color: #4d9079ec;
+}
+
+.shareAndFavo img {
+  width: 30px;
+}

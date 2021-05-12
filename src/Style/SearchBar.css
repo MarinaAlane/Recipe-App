@@ -1,0 +1,37 @@
+.searchBar {
+  margin-bottom: 3vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.radiosSearchBar {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.radiosSearchBar input {
+  margin-right: 4px;
+  outline: none;
+}
+
+.search {
+  border: 1px solid rgba(0, 0, 0, 0.39);
+  border-radius: 10px;
+}
+
+.search input {
+  border: none;
+  border-radius: 10px 0 0 10px;
+  outline: none;
+  margin-left: 5px;
+}
+
+.search button {
+  border: none;
+  outline: none;
+  border-radius: 0 10px 10px 0;
+  background-color: #3831AC;
+  color: white;
+}

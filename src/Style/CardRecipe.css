@@ -1,0 +1,29 @@
+.card-food-image {
+  display: flex;
+  height: 150px;
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+  margin-bottom: 5vh;
+}
+
+.card {
+  display: inline-block;
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.418);
+  max-width: 40vw;
+  margin-bottom: 10%;
+  color: black;
+}
+
+.card h2 {
+  font-size: 20px;
+  text-align: center;
+  margin: 5px 0 5px 0;
+}
