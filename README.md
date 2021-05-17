@@ -1,8 +1,10 @@
 # Recipe-app
-App de receitas feito em grupo - Último projeto de Front End. 
+Done in group - Last Front End project.
 
-Tecnologias usadas:
+Technics:
 * React
 *  Redux
 *  API 
 *  Bootstrap
+
+## Prototype: https://www.figma.com/file/WatDxtKl7g54QxhDi9qdbq/App-Receitas?node-id=0%3A1
